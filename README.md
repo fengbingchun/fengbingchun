@@ -1,4 +1,4 @@
-<p style="text-align: center; font-weight: bold; color: green;">
+<p align="center">
   <br>
   <samp>
     <br />  Blog：https://blog.csdn.net/fengbingchun
